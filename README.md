@@ -1,16 +1,16 @@
 
-# Castle Siege Plugin Documentation
+# Castle Siege 插件文档
 
-## Introduction
+## 介绍
 
-**Castle Siege** is a thrilling Minecraft minigame plugin inspired by Mineplex. Engage in intense battles as Attackers or Defenders, where your objective is either to protect the King or assassinate him. With multiple kits, abilities, and strategic elements, this game is packed with fun for all players.
+**Castle Siege** 是一款惊心动魄的 Minecraft 迷你游戏插件，灵感来自 Mineplex。作为攻击者或防御者参与激烈的战斗，您的目标是保护国王或刺杀他。这款游戏拥有多种套件、能力和战略元素，为所有玩家带来乐趣。
 
 ----------
 
 ## Features Overview
 
--   **Teams**: Two sides – Defenders and Attackers.
--   **8 Kits**: Four unique kits per team, each with custom abilities.
+-   **Teams**: 双方 - 防守方和进攻方。
+-   **8 Kits**: 每个团队 4 个独特的套件，每个套件都有自定义能力。
 -   **Modes**: Normal (respawn allowed) or Hardcore (no respawns).
 -   **Abilities**: Special items for kits with various effects.
 -   **Coins**: Earned through gameplay to unlock new kits.
